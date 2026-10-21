@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/vispy/test-data/commit/c324adbeb3d75f0dfd52d93eaa8ad8c08b39babe",
       "git:hexsha": "c324adbeb3d75f0dfd52d93eaa8ad8c08b39babe",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-21T19:45:04.833702+00:00"
     },
     {
       "@id": "https://repolex.ai/r/vispy/test-data/commit/bc0db83aa24a2a0d022721cbee78c2bda7adc62d",
